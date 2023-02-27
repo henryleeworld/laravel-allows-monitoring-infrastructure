@@ -1,4 +1,4 @@
-# Laravel 9 允許監控基礎架構
+# Laravel 10 允許監控基礎架構
 
 引入 mohsenabrishami 的 stethoscope 套件來擴增允許監控基礎架構，在基礎結構效能影響終端使用者的體驗之前，及早採取行動。
 
@@ -24,5 +24,5 @@ $ php artisan stethoscope:listen
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/BTs9B7S.png)
+![](https://i.imgur.com/JxZdGhY.png)
 > 了解資源的運行狀況
